@@ -4,7 +4,7 @@
 _Eötvös Loránd University, April 2022_
 
 
-This bachelor's thesis explores the role of Artificial Intelligence (AI), particularly predictive ML combined with Big Data, in shaping contemporary power dynamics and the emergence of digital authoritarianism through a new mode of Algorithmic Power.
+This thesis explores how Artificial Intelligence, particularly predictive Machine Learning, generates new modes of "Algorithmic Power" that reshape social control, amplify digital authoritarianism, and challenge traditional liberal democratic governance globally.
 
 ## Abstract
 Artificial Intelligence is reshaping the fundamentals of power and politics. This study investigates AI beyond mere technology, focusing instead on how it acts as a critical architect of social and political structures, emphasizing Michel Foucault’s theoretical insights.
